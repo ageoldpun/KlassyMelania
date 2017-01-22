@@ -1,0 +1,17 @@
+{
+  "name": "klassy-melania",
+  "version": "0.0.1",
+  "description": "Post some pure klass to Facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^3.0.1"
+  },
+  "devDependencies": {
+    "chromedriver": "^2.27.2"
+  }
+}
